@@ -80,8 +80,6 @@ OPENAI_API_KEY=your_openai_key_here
 HUGGINGFACE_API_KEY=your_huggingface_key_here
 ```
 
-> ⚠️ Never commit your `.env` file! Make sure it's listed in your `.gitignore`.
-
 ### Running the App
 
 ```bash
